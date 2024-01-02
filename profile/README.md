@@ -9,7 +9,7 @@ Welcome to the Penggarap Handal (0xpH) organization repository. We are a communi
 
 ## Major Projects 🚧
 
-- [Auto Create Wallet(Single & Multiple)](https://github.com/0xpH/evm)
+- [Auto Create Wallet(Currently Private)](https://github.com/0xpH/evm)
 
 ## Technologies We Love ❤️
 
