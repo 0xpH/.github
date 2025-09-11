@@ -14,7 +14,7 @@ Information on how to contribute is currently not available. Stay tuned for upda
 
 ## Contact 📧
 
-**Email:** Not available
+**Email:** contact@0xph.site
 
 Follow us on [GitHub](link_github) for the latest updates.
 
